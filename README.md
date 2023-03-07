@@ -3,6 +3,9 @@
 
 Project using cloud computing and AWS to build a master-worker architecture for matrix computation. 
 
+## Report
+
+The report is available at Medium: [Article](https://medium.com/@simeon.ferez/aws-cloud-computing-w-python-39fb485aec44)
 
 ## Demo
 
