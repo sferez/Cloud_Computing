@@ -7,6 +7,8 @@ Project using cloud computing and AWS to build a master-worker architecture for 
 
 The report is available at Medium: [Article](https://medium.com/@simeon.ferez/aws-cloud-computing-w-python-39fb485aec44)
 
+![img.png](img.png)
+
 ## Demo
 
 Guide to deploy, use and delete the project.
